@@ -1,19 +1,4 @@
-ChatGPT
-
-InfoTech-HR Analytics.pdf
-PDF
-ChatGPT
-It looks like the document contains various HR analytics data, including attendance percentages, work-from-home percentages, and specific employee data over time. How can I assist you with this information? Are you looking for a specific analysis or insights?
-
-
-
-
-
-Describe and provide read me file step by step
-ChatGPT
-Creating a detailed README file for the HR Analytics data provided in the document involves describing the dataset, the key metrics, and providing instructions on how to use and interpret the data. Here's a step-by-step guide:
-
-README for HR Analytics Data
+Tittle: Infotech HR Data Analytics 
 1. Overview
 This dataset contains HR analytics data from InfoTech, covering employee attendance, work-from-home (WFH) percentages, and sick leave (SL) percentages over a specified period. The data is intended for analysis using tools like Power BI Desktop.
 
